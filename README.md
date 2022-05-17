@@ -18,6 +18,6 @@
 
 ## 启动它
 
-![image](https://github.com/zhangsanbin/AutoMouse/1.png)
+![image](1.png)
 
-![image](https://github.com/zhangsanbin/AutoMouse/1.png)
+![image](2.png)
